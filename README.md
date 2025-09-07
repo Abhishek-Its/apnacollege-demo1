@@ -4,3 +4,6 @@ It is my first Git Repository
 Author-Abhishek_git Tiwari
 hi 
 i am new to github.
+
+# Teacher
+Shradha Khapra
